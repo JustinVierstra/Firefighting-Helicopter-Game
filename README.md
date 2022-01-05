@@ -1,6 +1,6 @@
 # Helicopter-Game-V3
 
-2nd iteration of a helicopter game I am developing using Codename One and Java. App built for iOS and Android
+Most recent iteration of a helicopter game I am developing using Codename One and Java. App built for iOS and Android
 
 Most complete iteration of project, but still have a little left to do.
 
