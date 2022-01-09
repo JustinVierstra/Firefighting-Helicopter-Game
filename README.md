@@ -1,4 +1,4 @@
-# Helicopter-Game-V3
+# Firefighting Helicopter Game
 
 Most recent iteration of a helicopter game I am developing using Codename One and Java. App built for iOS and Android
 
