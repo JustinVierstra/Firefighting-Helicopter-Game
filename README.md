@@ -4,6 +4,8 @@ Most recent iteration of a helicopter game I am developing using Codename One an
 
 Most complete iteration of project, but still have a little left to do.
 
+Earlier versions of the app: [Version 1](https://github.com/JustinVierstra/Helicopter-Game-V1) & [Version 2](https://github.com/JustinVierstra/Helicopter-Game-V2).
+
 # Controls:
 ```
 Left Arrow: Changes the heading of the helicopter by 15 degrees to the left.
