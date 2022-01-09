@@ -4,7 +4,7 @@ Most recent iteration of a helicopter game I am developing using Codename One an
 
 Most complete iteration of project, but still have a little left to do.
 
-Controls:
+# Controls:
 ```
 Left Arrow: Changes the heading of the helicopter by 15 degrees to the left.
 Right Arrow: Changes the heading of the helicopter by 15 degrees to the right.
